@@ -1,7 +1,4 @@
-# Personal-Portfolio-Website
-A responsive personal portfolio website showcasing my skills, projects, and professional memberships.
 # Personal Portfolio Website
-
 A responsive personal portfolio website showcasing my skills, projects, and professional memberships.
 
 ## Features
